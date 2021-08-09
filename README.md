@@ -7,7 +7,7 @@ Projetinho pra relembrar conceitos de posicionamento css
 </h3>
 <br>
 
-<p>Para as animações ao scrool utilizei uma lib bem simples chamada Scrool Reveal</p>
+<p>Para as animações ao scroll utilizei uma lib bem simples chamada Scroll Reveal</p>
 
 <h1>
   <img src="https://github.com/Eduardosbk/Praticando/blob/main/gif.gif">
