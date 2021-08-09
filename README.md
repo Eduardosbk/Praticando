@@ -43,7 +43,7 @@ $ yarn
 <code>$ yarn start</code><br>
 <p>The app will be available for access on your browser<a href="http://localhost:3000"></a><br>
 
-<h4 align="center">Made with 💜 by Eduardo Candido.</h4>
+<hr>
 
 <h1 align="center">Mobile</h1>
 
@@ -51,4 +51,6 @@ $ yarn
   <img align="center" src="https://github.com/Eduardosbk/Praticando/blob/main/mobile.gif">
 </h1>
 <hr>
+<hr>
+<h4 align="center">Made with 💜 by Eduardo Candido.</h4>
 
