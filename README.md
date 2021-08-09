@@ -6,6 +6,12 @@ Projetinho pra relembrar conceitos de posicionamento css
   Aprendi e relembrei muita coisa com esse projetinho que apesar de simples me da um certo orgulho em ter feito sozinho
 </h3>
 
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ul>
+
 <h1>
   <img src="https://github.com/Eduardosbk/Praticando/blob/main/gif.gif">
 </h1><hr>
