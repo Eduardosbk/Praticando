@@ -51,6 +51,5 @@ $ yarn
   <img align="center" src="https://github.com/Eduardosbk/Praticando/blob/main/mobile.gif">
 </h1>
 <hr>
-<hr>
 <h4 align="center">Made with 💜 by Eduardo Candido.</h4>
 
