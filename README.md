@@ -6,6 +6,6 @@ Projetinho pra relembrar conceitos de posicionamento css
   <img src="https://github.com/Eduardosbk/Praticando/blob/main/gif.gif">
 </h1>
 
-<h1>
+<h1 align="center">
   <img align="center" src="https://github.com/Eduardosbk/Praticando/blob/main/mobile.gif">
 </h1>
