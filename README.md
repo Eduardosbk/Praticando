@@ -1,4 +1,4 @@
-# Não consegui pensar em um nome
+# Não consegui pensar em um nome legal
 
 Projetinho pra relembrar conceitos de posicionamento css
 
